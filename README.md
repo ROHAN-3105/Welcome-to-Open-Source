@@ -1,4 +1,4 @@
-# Welcome to Open Source Contributions 🍉
+ # Welcome to Open Source Contributions 🍉
 
 <p>🚨 <b>ANNOUNCEMENT:</b> We've updated the Open Source Contribution List to a new home: <br/>
     Please make all your pull requests here (LATEST): 
@@ -70,6 +70,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/Glitch-op">
                     <img src="https://avatars.githubusercontent.com/u/200114805?v=4" width="100px;"
                         alt="Karan Yadav" />
+                    <br />
+                    <sub>
+                        <b>Karan Yadav</b>
+                    </sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ROHAN-3105">
+                    <img src="https://avatars.githubusercontent.com/u/189203067?v=4" width="100px;"
+                        alt="PV ROHAN" />
                     <br />
                     <sub>
                         <b>Karan Yadav</b>
